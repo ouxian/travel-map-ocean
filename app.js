@@ -6,7 +6,7 @@ var mapAttr =
 
 //mapbox 地图服务URL
 var mapboxUrl =
-    'https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw';
+    'https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=申请的token';
 
 // 地图中心点，武汉
 var centerPoint = [30.59276, 114.30525];
